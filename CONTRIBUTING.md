@@ -72,6 +72,32 @@ A team member will review your submission and may request changes before merging
 
 
 
+# ✨ Pull Request
+
+What this PR does?
+What issue(s) does this close?: 
+How to test this PR?
+Screenshots / Output (if applicable):
+
+Checklist:
+- [ ] Code runs locally
+- [ ] Tests are written or updated
+- [ ] README/documentation updated
+
+
+
+
+# 🐛 Bug Report / 💡 Feature Request
+
+Describe your idea or issue
+Steps to reproduce (if bug)
+Expected behavior
+Proposed solution (if any)
+Additional context / screenshots
+
+
+
+
 # 💻 Coding Guidelines
 
 Use meaningful names and clear logic.
