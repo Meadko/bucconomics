@@ -5,7 +5,7 @@ This document outlines our collaboration standards, development approach, and co
 
 
 
-🚦 Code of Conduct
+# 🚦 Code of Conduct
 
 We’re committed to creating a respectful, inclusive, and safe environment for everyone.
 
@@ -22,7 +22,7 @@ See our Code of Conduct for full details.
 
 
 
-🚀 How to Contribute
+# 🚀 How to Contribute
 
 1. Propose Ideas or Report Issues
 
@@ -72,7 +72,7 @@ A team member will review your submission and may request changes before merging
 
 
 
-💻 Coding Guidelines
+# 💻 Coding Guidelines
 
 Use meaningful names and clear logic.
 
@@ -89,7 +89,7 @@ If you're not sure about style, check other files in the repo or ask in a discus
 
 
 
-✅ Testing & Validation
+# ✅ Testing & Validation
 
 Follow TDD: write failing tests before implementing features.
 
@@ -107,7 +107,7 @@ We welcome tests for edge cases, smart contract security, and regression prevent
 
 
 
-🔄 Agile & Iterative Delivery
+# 🔄 Agile & Iterative Delivery
 
 We work in short iterations. If your contribution is part of a larger feature:
 
@@ -121,9 +121,8 @@ Add your work to the /projects Kanban board if relevant.
 
 
 
-🙌 Thank You
+# 🙌 Thank You
 
 Whether you're fixing a typo, designing governance flows, or writing Solidity — your contribution matters. We're building this for everyone, with everyone.
 
 Rayyan & The BUCCONOMICS OS Squad ✊
-
