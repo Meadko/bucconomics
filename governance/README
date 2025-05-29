@@ -1,1 +1,17 @@
-Placeholder for BUCC documentation.
+# 🏛️ Governance
+
+This folder defines the DAO-based governance structure of BUCCONOMICS.
+
+# Key Governance Concepts
+- Quadratic voting with emergency veto mechanism
+- Reputation-based influence score
+- Multi-tier DAO (Local, Regional, National)
+- Community proposal process
+- Governance token logic
+
+# File Types
+- Governance models (markdown & diagrams)
+- Voting contracts (linked from `/contracts`)
+- Legal interpretation memos (in `/docs`)
+
+> Join the `#governance` discussion in GitHub Discussions to help shape this.
