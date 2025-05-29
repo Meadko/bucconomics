@@ -15,3 +15,5 @@ This folder will contain all automated tests for the BUCCONOMICS platform.
 ## Run All Tests (future setup)
 ```bash
 npm run test
+
+New contributors: please ensure all PRs pass existing tests and include new ones when needed.
