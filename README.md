@@ -24,9 +24,9 @@ This is an open-source project. Feel free to fork, suggest edits, or reach out v
 
 ## 💼 Founder
 
-BUCC is founded by [Rayyan Karim](https://rayyankarim.com), a systems thinker and fintech transformation expert.
+Rayyan Karim is a systems thinker, transformation strategist, and fintech innovator. He builds open, human-centered infrastructure that empowers communities—from corporate boardrooms to grassroots economies—to decentralize prosperity and reclaim agency. Learn more: www.rayyankarim.com 
+
 
 ## 📜 License
 
 MIT License – free for anyone to use, modify, or build upon.
-✅
